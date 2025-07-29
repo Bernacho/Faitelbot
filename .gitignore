@@ -1,0 +1,8 @@
+faitelbot-api/
+.ipynb_checkpoints
+__pycache__
+.env
+cookies.json
+test.ipynb
+tweepy_test.ipynb
+run_faitelbot_cpu.ipynb
